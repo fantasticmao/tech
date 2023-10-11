@@ -27,13 +27,13 @@ Prometheus 中的每个时序数据都由它的指标名称和被称为标签的
 
 给定一个指标名称和一组标签，时序数据通常使用如下表达式来标识：
 
-```promQL
+```promql
 <metric name>{<label name>=<label value>, ...}
 ```
 
 例如，指标名称为 `api_http_requests_total`、带有标签 `method="POST"` 和 `handler="/messages"` 的时序数据可以写作为：
 
-```promQL
+```promql
 api_http_requests_total{method="POST", handler="/messages"}
 ```
 

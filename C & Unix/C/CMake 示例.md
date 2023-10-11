@@ -6,7 +6,7 @@
 
 以集成 github.com/antirez/sds 库为例：
 
-```makefile
+```cmake
 include(FetchContent)
 
 FetchContent_Declare(
