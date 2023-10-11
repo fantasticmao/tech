@@ -1,4 +1,4 @@
-# Prometheus 存储机制
+# Prometheus 存储原理
 
 ## 参考资料
 

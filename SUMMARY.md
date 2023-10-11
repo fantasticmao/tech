@@ -23,3 +23,37 @@
 ## Go
 
 - [《A Tour of Go》笔记](<Go/《A Tour of Go》笔记.md>)
+- [Go vs C vsJava](<Go/Go vs C vsJava.md>)
+- [Go 常用命令](<Go/Go 常用命令.md>)
+- [Go 语言中的陷阱](<Go/Go 语言中的陷阱.md>)
+
+## Java
+
+## JavaScript
+
+- [《写给大家看的设计书》笔记 - 设计原则](<JavaScript/《写给大家看的设计书》笔记 - 设计原则.md>)
+
+## 数据库
+
+- ElasticSearch
+    - [ElasticSearch 概览](<数据库/ElasticSearch/ElasticSearch 概览.md>)
+- HBase
+    - [HBase 数据模型](<数据库/HBase/HBase 数据模型.md>)
+- Prometheus
+    - [Prometheus 概览](<数据库/Prometheus/Prometheus 概览.md>)
+    - [Prometheus 数据模型和指标类型](<数据库/Prometheus/Prometheus 数据模型和指标类型.md>)
+    - [Prometheus 查询语法](<数据库/Prometheus/Prometheus 查询语法.md>)
+    - [Prometheus 存储原理](<数据库/Prometheus/Prometheus 存储原理.md>)
+    - [Prometheus vs InfluxDB](<数据库/Prometheus/Prometheus vs InfluxDB.md>)
+- Redis
+    - [《Redis 设计与实现》笔记 - 简单动态字符串](<数据库/Redis/《Redis 设计与实现》笔记 - 简单动态字符串.md>)
+    - [《Redis 设计与实现》笔记 - 链表](<数据库/Redis/《Redis 设计与实现》笔记 - 链表.md>)
+    - [《Redis 设计与实现》笔记 - 字典](<数据库/Redis/《Redis 设计与实现》笔记 - 字典.md>)
+    - [《Redis 设计与实现》笔记 - 跳跃表](<数据库/Redis/《Redis 设计与实现》笔记 - 跳跃表.md>)
+    - [《Redis 设计与实现》笔记 - 整数集合](<数据库/Redis/《Redis 设计与实现》笔记 - 整数集合.md>)
+    - [《Redis 设计与实现》笔记 - 压缩列表](<数据库/Redis/《Redis 设计与实现》笔记 - 压缩列表.md>)
+    - [《Redis 设计与实现》笔记 - 对象](<数据库/Redis/《Redis 设计与实现》笔记 - 对象.md>)
+    - [Redis 内存回收策略](<数据库/Redis/Redis 内存回收策略.md>)
+    - [Redis 实现分布式锁](<数据库/Redis/Redis 实现分布式锁.md>)
+    - [Redis 持久化机制](<数据库/Redis/Redis 持久化机制.md>)
+    - [Redis 数据分片方案](<数据库/Redis/Redis 数据分片方案.md>)
