@@ -57,3 +57,4 @@
     - [Redis 实现分布式锁](<数据库/Redis/Redis 实现分布式锁.md>)
     - [Redis 持久化机制](<数据库/Redis/Redis 持久化机制.md>)
     - [Redis 数据分片方案](<数据库/Redis/Redis 数据分片方案.md>)
+    - [使用缓存的常见问题](<数据库/Redis/使用缓存的常见问题.md>)
