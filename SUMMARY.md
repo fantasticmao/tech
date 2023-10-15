@@ -32,6 +32,7 @@
 ## JavaScript
 
 - [《写给大家看的设计书》笔记 - 设计原则](<JavaScript/《写给大家看的设计书》笔记 - 设计原则.md>)
+- [《JavaScript 权威指南》笔记 - jQuery 类库](<JavaScript/《JavaScript 权威指南》笔记 - jQuery 类库.md>)
 
 ## 数据库
 
@@ -57,7 +58,7 @@
   - [Redis 实现分布式锁](<数据库/Redis/Redis 实现分布式锁.md>)
   - [Redis 持久化机制](<数据库/Redis/Redis 持久化机制.md>)
   - [Redis 数据分片方案](<数据库/Redis/Redis 数据分片方案.md>)
-  - [使用缓存的常见问题](数据库/Redis/使用缓存的常见问题.md)
+  - [使用缓存的常见问题](<数据库/Redis/使用缓存的常见问题.md>)
 - MySQL
   - [《高性能 MySQL》笔记 - Schema 与数据类型优化](<数据库/MySQL/《高性能 MySQL》笔记 - Schema 与数据类型优化.md>)
   - [《高性能 MySQL》笔记 - 创建高性能的索引](<数据库/MySQL/《高性能 MySQL》笔记 - 创建高性能的索引.md>)
