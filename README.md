@@ -71,6 +71,18 @@
   - [B-Tree 简述](<数据库/MySQL/B-Tree 简述.md>)
   - [理解查询执行计划](<数据库/MySQL/理解查询执行计划.md>)
 
+## 中间件
+
+- gRPC
+  - [gRPC 负载均衡](<中间件/gRPC/gRPC 负载均衡.md>)
+- ZooKeeper
+  - [ZooKeeper 数据模型](<中间件/zookeeper/ZooKeeper 数据模型.md>)
+- 消息队列
+  - [消息积压解决策略](<中间件/消息列队/消息积压解决策略.md>)
+  - [RocketMQ 架构设计](<中间件/消息列队/RocketMQ 架构设计.md>)
+  - [RocketMQ 功能特性](<中间件/消息列队/RocketMQ 功能特性.md>)
+  - [RocketMQ 消息存储](<中间件/消息列队/RocketMQ 消息存储.md>)
+
 ## 架构设计
 
 - [《凤凰架构》笔记](<架构设计/《凤凰架构》笔记.md>)
