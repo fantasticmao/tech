@@ -6,7 +6,9 @@ Spring Framework 的声明式事务管理是通过 AOP 代理来实现的，并�
 
 执行事务的 AOP 代理类中会包含配置事务行为的元数据，它会结合使用 `TransactionInterceptor` 和 `TransactionManager` 来驱动事务的执行。
 
-声明式事务的调用流程如下图所示：![spring transaction](spring_transaction.png)
+声明式事务的调用流程如下图所示：
+
+![spring transaction](spring_transaction.png)
 
 ## 使用 `@Transactional`
 

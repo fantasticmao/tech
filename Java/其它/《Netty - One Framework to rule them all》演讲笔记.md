@@ -6,7 +6,7 @@
 
 ## 演讲视频
 
-https://www.bilibili.com/video/BV14t411G7Lp
+<https://www.bilibili.com/video/BV14t411G7Lp>
 
 ## Netty 4 中的优化
 
