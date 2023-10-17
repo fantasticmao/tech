@@ -36,6 +36,7 @@
   - [ThreadLocal 工作机制](<Java/JDK/ThreadLocal 工作机制.md>)
   - [Java Agent](<Java/JDK/Java Agent.md>)
 - JVM
+  - [《深入理解 Java 虚拟机》笔记 - Java 内存模型与线程](<Java/JVM/《深入理解 Java 虚拟机》笔记 - Java 内存模型与线程.md>)
   - [JVM 运行时数据区](<Java/JVM/JVM 运行时数据区.md>)
   - [类加载机制](<Java/JVM/类加载机制.md>)
   - [垃圾回收算法](<Java/JVM/垃圾回收算法.md>)
