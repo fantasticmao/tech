@@ -9,6 +9,7 @@
   - [GNU make](<C & Unix/C/GNU make.md>)
   - [LLVM Clang](<C & Unix/C/LLVM Clang.md>)
   - [Nginx 常用模块](<C & Unix/C/Nginx 常用模块.md>)
+  - [Vim 常用命令](<C & Unix/C/Vim 常用命令.md>)
 - Unix-like
   - [《深入理解计算机系统》笔记](<C & Unix/Unix-like/《深入理解计算机系统》笔记.md>)
   - [《UNIX 环境高级编程》笔记 - UNIX 基础知识](<C & Unix/Unix-like/《UNIX 环境高级编程》笔记 - UNIX 基础知识.md>)
