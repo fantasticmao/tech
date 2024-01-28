@@ -34,6 +34,7 @@
 
 - JDK
   - [《Java 并发编程实战》笔记 - 线程池的使用](<Java/JDK/《Java 并发编程实战》笔记 - 线程池的使用.md>)
+  - [设计模式概览](<Java/JDK/设计模式概览.md>)
   - [集合概览](<Java/JDK/集合概览.md>)
   - [HashMap 内部算法](<Java/JDK/HashMap 内部算法.md>)
   - [ThreadLocal 工作机制](<Java/JDK/ThreadLocal 工作机制.md>)
