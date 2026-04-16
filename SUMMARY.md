@@ -59,6 +59,10 @@
 - [《写给大家看的设计书》笔记 - 设计原则](<JavaScript/《写给大家看的设计书》笔记 - 设计原则.md>)
 - [《JavaScript 权威指南》笔记 - jQuery 类库](<JavaScript/《JavaScript 权威指南》笔记 - jQuery 类库.md>)
 
+## Python
+
+- [Python 模块](<Python/Python 模块.md>)
+
 ## 数据库
 
 - ElasticSearch
